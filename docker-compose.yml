@@ -1,0 +1,15 @@
+services:
+  megui:
+    image: megui:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
+    volumes:
+      # Cria um volume local (data) para persistir o banco de dados do SQLite (megui.db)
+      - ./data:/app/data
+    environment:
+      # O banco fica salvo localmente no volume /app/data dentro do contêiner para não perder as rotas se ele reiniciar
+      - ConnectionStrings__DefaultConnection=Data Source=/app/data/megui.db
