@@ -1,0 +1,16 @@
+## .NET
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+
+## IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+## Secrets - NEVER commit
+appsettings.json
+appsettings.Development.json

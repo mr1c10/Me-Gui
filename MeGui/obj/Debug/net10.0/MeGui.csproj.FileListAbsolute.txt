@@ -186,3 +186,4 @@
 /home/mau/Desktop/Hacka/src/MeGui/obj/Debug/net10.0/MeGui.pdb
 /home/mau/Desktop/Hacka/src/MeGui/obj/Debug/net10.0/MeGui.genruntimeconfig.cache
 /home/mau/Desktop/Hacka/src/MeGui/obj/Debug/net10.0/ref/MeGui.dll
+/home/mau/Desktop/Hacka/src/MeGui/obj/Debug/net10.0/MeGui.sourcelink.json
