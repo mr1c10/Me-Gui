@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/home/mau/Desktop/Hacka/src/MeGui/MeGui.csproj": {}
+    "/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/MeGui.csproj": {}
   },
   "projects": {
-    "/home/mau/Desktop/Hacka/src/MeGui/MeGui.csproj": {
+    "/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/MeGui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mau/Desktop/Hacka/src/MeGui/MeGui.csproj",
+        "projectUniqueName": "/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/MeGui.csproj",
         "projectName": "MeGui",
-        "projectPath": "/home/mau/Desktop/Hacka/src/MeGui/MeGui.csproj",
-        "packagesPath": "/home/mau/.nuget/packages/",
-        "outputPath": "/home/mau/Desktop/Hacka/src/MeGui/obj/",
+        "projectPath": "/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/MeGui.csproj",
+        "packagesPath": "/Users/MacBookAir/.nuget/packages/",
+        "outputPath": "/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/mau/.nuget/NuGet/NuGet.Config"
+          "/Users/MacBookAir/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "/opt/homebrew/Cellar/dotnet/10.0.103/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +45,10 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.106/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.103/libexec/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

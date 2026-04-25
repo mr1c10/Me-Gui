@@ -12,5 +12,6 @@ obj/
 *.suo
 
 ## Secrets - NEVER commit
+.env
 appsettings.json
 appsettings.Development.json

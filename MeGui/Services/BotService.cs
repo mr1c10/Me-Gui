@@ -183,6 +183,7 @@ public class BotService : BackgroundService
 
         // Use LLM to extract route info
         var response = await openRouter.ChatAsync(SystemPrompt, text, ct);
+        _logger.LogInformation("Resposta do LLM: {Response}", response);
 
         if (response.Contains("ROTA:"))
         {
@@ -194,11 +195,13 @@ public class BotService : BackgroundService
                 var origin = parts[0].Trim();
                 var destination = parts[1].Trim();
 
-                var route = await db.Routes
+                var routes = await db.Routes
                     .Include(r => r.Checkpoints)
-                    .FirstOrDefaultAsync(r =>
-                        EF.Functions.Like(r.OriginStation, $"%{origin}%") &&
-                        EF.Functions.Like(r.DestinationStation, $"%{destination}%"), ct);
+                    .ToListAsync(ct);
+
+                var route = routes.FirstOrDefault(r =>
+                    NormalizeString(r.OriginStation).Contains(NormalizeString(origin)) &&
+                    NormalizeString(r.DestinationStation).Contains(NormalizeString(destination)));
 
                 if (route != null)
                 {
@@ -240,6 +243,25 @@ public class BotService : BackgroundService
 
         // Generic LLM response
         await _botClient.SendMessage(chatId, response, parseMode: ParseMode.Markdown, cancellationToken: ct);
+    }
+
+    private string NormalizeString(string text)
+    {
+        if (string.IsNullOrWhiteSpace(text)) return string.Empty;
+
+        var normalized = text.Normalize(System.Text.NormalizationForm.FormD);
+        var sb = new System.Text.StringBuilder();
+
+        foreach (var c in normalized)
+        {
+            var unicodeCategory = System.Globalization.CharUnicodeInfo.GetUnicodeCategory(c);
+            if (unicodeCategory != System.Globalization.UnicodeCategory.NonSpacingMark)
+            {
+                sb.Append(c);
+            }
+        }
+
+        return sb.ToString().Normalize(System.Text.NormalizationForm.FormC).ToLowerInvariant();
     }
 
     private async Task HandleCallbackQueryAsync(CallbackQuery callbackQuery, CancellationToken ct)
@@ -341,23 +363,40 @@ public class BotService : BackgroundService
         session.CurrentCheckpointOrder = nextOrder;
         await db.SaveChangesAsync(ct);
 
-        // Send checkpoint photo
+        // Send checkpoint photo from local folder
         try
         {
-            await _botClient.SendPhoto(
-                session.ChatId,
-                InputFile.FromUri(checkpoint.ImageUrl),
-                caption: $"📍 **Checkpoint {checkpoint.Order}**\n\n{checkpoint.Instruction}",
-                parseMode: ParseMode.Markdown,
-                cancellationToken: ct
-            );
+            var imagePath = Path.Combine(Directory.GetCurrentDirectory(), "..", "imagens", "estacoes-do-metro-em-SP.jpg");
+            
+            // Check if file exists, if not try within MeGui folder
+            if (!System.IO.File.Exists(imagePath))
+            {
+                imagePath = Path.Combine(Directory.GetCurrentDirectory(), "Imagens", checkpoint.ImageUrl);
+            }
+
+            if (System.IO.File.Exists(imagePath))
+            {
+                using var stream = System.IO.File.OpenRead(imagePath);
+                await _botClient.SendPhoto(
+                    session.ChatId,
+                    InputFile.FromStream(stream),
+                    caption: $"📍 **Checkpoint {checkpoint.Order}**\n\n{checkpoint.Instruction}",
+                    parseMode: ParseMode.Markdown,
+                    cancellationToken: ct
+                );
+            }
+            else
+            {
+                throw new FileNotFoundException("Imagem não encontrada", imagePath);
+            }
         }
-        catch
+        catch (Exception ex)
         {
+            _logger.LogWarning(ex, "Falha ao enviar imagem local: {ImageUrl}", checkpoint.ImageUrl);
             // Fallback: send as text if image fails
             await _botClient.SendMessage(
                 session.ChatId,
-                $"📍 **Checkpoint {checkpoint.Order}**\n\n{checkpoint.Instruction}\n\n🖼️ Imagem: {checkpoint.ImageUrl}",
+                $"📍 **Checkpoint {checkpoint.Order}**\n\n{checkpoint.Instruction}\n\n🖼️ (Imagem não disponível localmente: {checkpoint.ImageUrl})",
                 parseMode: ParseMode.Markdown,
                 cancellationToken: ct
             );

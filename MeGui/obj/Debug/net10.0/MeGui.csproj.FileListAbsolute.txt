@@ -187,3 +187,576 @@
 /home/mau/Desktop/Hacka/src/MeGui/obj/Debug/net10.0/MeGui.genruntimeconfig.cache
 /home/mau/Desktop/Hacka/src/MeGui/obj/Debug/net10.0/ref/MeGui.dll
 /home/mau/Desktop/Hacka/src/MeGui/obj/Debug/net10.0/MeGui.sourcelink.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/appsettings.Development.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/appsettings.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-Black.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-BlackItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-Bold.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-BoldItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraBold.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraBoldItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraLight.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraLightItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-Italic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-Light.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-LightItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-Medium.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-MediumItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-Regular.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-SemiBold.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-SemiBoldItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-Thin.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/Lato-ThinItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/LatoFont/OFL.txt
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/MeGui.staticwebassets.endpoints.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/MeGui
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/MeGui.deps.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/MeGui.runtimeconfig.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/MeGui.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/MeGui.pdb
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Humanizer.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.Data.Sqlite.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/QuestPDF.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/SQLitePCLRaw.batteries_v2.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/SQLitePCLRaw.core.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/System.CodeDom.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Telegram.Bot.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libqpdf.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libqpdf.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libqpdf.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libQuestPdfSkia.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libqpdf.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libQuestPdfSkia.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libqpdf.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/QuestPdfSkia.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libgcc_s_seh-1.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libstdc++-6.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libwinpthread-1.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/qpdf.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/zlib1.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/QuestPdfSkia.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libgcc_s_dw2-1.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libstdc++-6.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libwinpthread-1.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/qpdf.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/zlib1.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-riscv64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.csproj.AssemblyReference.cache
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.AssemblyInfoInputs.cache
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.AssemblyInfo.cs
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.csproj.CoreCompileInputs.cache
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.MvcApplicationPartsAssemblyInfo.cache
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.sourcelink.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/scopedcss/bundle/MeGui.styles.css
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/staticwebassets.build.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/staticwebassets.development.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/swae.build.ex.cache
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.csproj.Up2Date
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/refint/MeGui.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.pdb
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/MeGui.genruntimeconfig.cache
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/obj/Debug/net10.0/ref/MeGui.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/DotNetEnv.dll
+/Users/MacBookAir/Desktop/Me-Gui/MeGui/bin/Debug/net10.0/Sprache.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/appsettings.Development.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/appsettings.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/MeGui.staticwebassets.endpoints.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-Black.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-BlackItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-Bold.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-BoldItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraBold.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraBoldItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraLight.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraLightItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-Italic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-Light.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-LightItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-Medium.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-MediumItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-Regular.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-SemiBold.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-SemiBoldItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-Thin.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/Lato-ThinItalic.ttf
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/LatoFont/OFL.txt
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/MeGui
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/MeGui.deps.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/MeGui.runtimeconfig.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/MeGui.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/MeGui.pdb
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/DotNetEnv.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Humanizer.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.Data.Sqlite.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/QuestPDF.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Sprache.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/SQLitePCLRaw.batteries_v2.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/SQLitePCLRaw.core.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/System.CodeDom.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/Telegram.Bot.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libqpdf.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libqpdf.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libqpdf.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libQuestPdfSkia.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libqpdf.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libQuestPdfSkia.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libqpdf.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/QuestPdfSkia.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libgcc_s_seh-1.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libstdc++-6.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libwinpthread-1.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/qpdf.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/zlib1.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/QuestPdfSkia.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libgcc_s_dw2-1.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libstdc++-6.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libwinpthread-1.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/qpdf.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/zlib1.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-riscv64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.csproj.AssemblyReference.cache
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.AssemblyInfoInputs.cache
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.AssemblyInfo.cs
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.csproj.CoreCompileInputs.cache
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.MvcApplicationPartsAssemblyInfo.cache
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.sourcelink.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/scopedcss/bundle/MeGui.styles.css
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/staticwebassets.build.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/staticwebassets.development.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/swae.build.ex.cache
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.csproj.Up2Date
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/refint/MeGui.dll
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.pdb
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/MeGui.genruntimeconfig.cache
+/Users/MacBookAir/Desktop/Me-Gui - cópia/MeGui/obj/Debug/net10.0/ref/MeGui.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/appsettings.Development.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/appsettings.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/MeGui.staticwebassets.endpoints.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-Black.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-BlackItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-Bold.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-BoldItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraBold.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraBoldItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraLight.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-ExtraLightItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-Italic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-Light.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-LightItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-Medium.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-MediumItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-Regular.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-SemiBold.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-SemiBoldItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-Thin.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/Lato-ThinItalic.ttf
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/LatoFont/OFL.txt
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/MeGui
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/MeGui.deps.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/MeGui.runtimeconfig.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/MeGui.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/MeGui.pdb
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/DotNetEnv.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Humanizer.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.Data.Sqlite.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Mono.TextTemplating.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/QuestPDF.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Sprache.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/SQLitePCLRaw.batteries_v2.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/SQLitePCLRaw.core.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/System.CodeDom.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/System.Composition.Convention.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/System.Composition.Hosting.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/System.Composition.Runtime.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/Telegram.Bot.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libqpdf.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libqpdf.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libQuestPdfSkia.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libqpdf.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libQuestPdfSkia.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libqpdf.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libQuestPdfSkia.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libqpdf.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/QuestPdfSkia.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libgcc_s_seh-1.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libstdc++-6.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/libwinpthread-1.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/qpdf.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/zlib1.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/QuestPdfSkia.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libgcc_s_dw2-1.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libstdc++-6.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/libwinpthread-1.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/qpdf.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/zlib1.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/browser-wasm/nativeassets/net9.0/e_sqlite3.a
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-musl-s390x/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-riscv64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.csproj.AssemblyReference.cache
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.AssemblyInfoInputs.cache
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.AssemblyInfo.cs
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.csproj.CoreCompileInputs.cache
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.MvcApplicationPartsAssemblyInfo.cache
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.sourcelink.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/scopedcss/bundle/MeGui.styles.css
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/staticwebassets.build.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/staticwebassets.development.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/swae.build.ex.cache
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.csproj.Up2Date
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/refint/MeGui.dll
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.pdb
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/MeGui.genruntimeconfig.cache
+/Users/MacBookAir/Desktop/meguiteste/MeGui-BOT/MeGui/obj/Debug/net10.0/ref/MeGui.dll
